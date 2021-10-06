@@ -1,6 +1,6 @@
 # KID
 
-[![GitHub Actions](https://github.com/limoli/kid/workflows/CI/badge.svg?branch=master)](https://github.com/limoli/kid/actions?query=workflow%3ACI+branch%3Amaster)
+[![GitHub Actions](https://github.com/limoli/kid/workflows/Go/badge.svg?branch=main)](https://github.com/limoli/kid/actions?query=workflow%3AGo+branch%3Amain)
 [![codecov](https://codecov.io/gh/limoli/kid/branch/master/graph/badge.svg)](https://codecov.io/gh/osamingo/checkdigit)
 [![Go Report Card](https://goreportcard.com/badge/limoli/kid)](https://goreportcard.com/report/osamingo/checkdigit)
 [![GoDoc](https://godoc.org/github.com/limoli/kid?status.svg)](https://godoc.org/github.com/osamingo/checkdigit)
