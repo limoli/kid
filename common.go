@@ -3,10 +3,14 @@ package kid
 import "errors"
 
 var (
+	// KID has an invalid length
 	ErrorInvalidCodeLength = errors.New("invalid code length")
+
+	// KID has an invalid character (not a digit)
 	ErrorInvalidNumber     = errors.New("kid contains an invalid number")
 )
 
+// Generator interface for KID generation
 type Generator interface {
 	Generate(code string) (rune, error)
 }

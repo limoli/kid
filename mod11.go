@@ -2,8 +2,10 @@ package kid
 
 import "unicode"
 
+// Luhn MOD11 implements Generator interface
 type Luhn11 struct{}
 
+// Generate check digit using MOD11
 func (l *Luhn11) Generate(code string) (rune, error) {
 	codeLength, isValid := validateKidLengthWithoutCheckDigit(code)
 	if !isValid {
