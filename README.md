@@ -1,7 +1,6 @@
 # KID
 
 [![GitHub Actions](https://github.com/limoli/kid/workflows/Go/badge.svg?branch=main)](https://github.com/limoli/kid/actions?query=workflow%3AGo+branch%3Amain)
-[![codecov](https://codecov.io/gh/limoli/kid/branch/master/graph/badge.svg)](https://codecov.io/gh/limoli/kid)
 [![Go Report Card](https://goreportcard.com/badge/limoli/kid)](https://goreportcard.com/report/limoli/kid)
 [![GoDoc](https://godoc.org/github.com/limoli/kid?status.svg)](https://godoc.org/github.com/limoli/kid)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/limoli/kid/master/LICENSE)
