@@ -51,4 +51,4 @@ check digit. This check digit is calculated from the MOD10 or MOD11 algorithm.
 
 ## License
 
-Released under the [MIT License](https://github.com/limoli/kid/blob/master/LICENSE).
+Released under the [MIT License](https://github.com/limoli/kid/blob/main/LICENSE).
